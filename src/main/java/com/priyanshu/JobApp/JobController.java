@@ -9,4 +9,5 @@ public class JobController {
     public String home(){
         return "home";
     }
+
 }
