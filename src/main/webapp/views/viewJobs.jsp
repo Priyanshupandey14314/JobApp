@@ -55,7 +55,7 @@
                                 ${jobPost.postDesc}</p>
                         <p class="card-text">
                             <strong>Experience Required:</strong>
-                                ${jobPost.reqExperience}
+                                ${jobPost.reqExpirience}
                             years
                         </p>
                         <p class="card-text">

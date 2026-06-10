@@ -174,25 +174,6 @@
 									of Things)</option>
 								<option value="Apache Kafka">Apache Kafka</option>
 								<option value="Elasticsearch">Elasticsearch</option>
-								<option value="Unity">Unity</option>
-								<option value="Game Development">Game Development</option>
-								<option value="Swift">Swift</option>
-								<option value="TypeScript">TypeScript</option>
-								<option value="Go">Go</option>
-								<option value="Kotlin">Kotlin</option>
-								<option value="Rust">Rust</option>
-								<option value="PHP">PHP</option>
-								<option value="HTML5">HTML5</option>
-								<option value="CSS3">CSS3</option>
-								<option value="GraphQL">GraphQL</option>
-								<option value="Raspberry Pi">Raspberry Pi</option>
-								<option value="Arduino">Arduino</option>
-								<option value="IoT (Internet of Things)">IoT (Internet
-									of Things)</option>
-								<option value="Apache Kafka">Apache Kafka</option>
-								<option value="Elasticsearch">Elasticsearch</option>
-								<option value="Unity">Unity</option>
-								<option value="Game Development">Game Development</option>
 							</select>
 						</div>
 
